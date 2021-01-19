@@ -8,3 +8,5 @@
 🌛I am currently working on something
 
 🌜You can visit my <strike>bad</strike> amazing website at [dannyzolp.com](https://dannyzolp.com/)
+
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dannyzolp)](https://github.com/anuraghazra/github-readme-stats)
