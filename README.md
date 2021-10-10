@@ -5,7 +5,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/certified-snoop-lion.svg)](https://forthebadge.com)
 
-🌛I am currently working on something
+🌛I am currently working on (secrets)
 
 🌜You can visit my <strike>bad</strike> amazing website at [dannyzolp.com](https://dannyzolp.com/)
 
