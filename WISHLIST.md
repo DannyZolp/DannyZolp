@@ -18,3 +18,10 @@
 - [ ] Eraser [Sakura Sumo Grip](https://www.jetpens.com/Sakura-Sumo-Grip-Retractable-Eraser/pd/20742)
 - [ ] Earbuds [KZ ZSN Pro X](https://www.amazon.com/Earphone-Earbuds-Headphones-Compatibility-Computer/dp/B08BC4RFS7)
   - [ ] (Maybe not necessary if purchasing Bose Frames) [Bluetooth Module](https://www.amazon.com/Bluetooth-Waterproof-Reduction-Upgrade-ZSNProX/dp/B09292MSTF) -- the ability to use both wired and wireless capabilities is important to me, so being able to switch is a useful feature.
+
+## Instruments
+- [ ] Alto Saxohpone [P Mauriat Le Bravo](https://sax.co.uk/products/p-mauriat-le-bravo-alto-sax)
+- [x] Tenor Saxophone [Jean Paul TS-400SP](https://www.amazon.com/Jean-Paul-USA-Silver-Plated-TS-400SP/dp/B07VHYMDLK)
+- [x] Tenor Saxophone Case [Protec MAX Contoured](https://www.wwbw.com/Protec-MAX-Contoured-Tenor-Saxophone-Case-620487-620487000000000.wwbw)
+- [ ] Tenor Saxophone Reeds [Boston Sax Shop Tenor (3)](https://www.bostonsaxshop.com/shop/p/custom-tenor-reeds)
+- [ ] 
