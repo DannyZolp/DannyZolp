@@ -10,6 +10,7 @@
 - [x] Water Bottle [Brita Stainless Steel (Glacier)](https://www.amazon.com/Brita-Premium-Filtering-Bottle-Filter/dp/B07QVTQ4ZS)
 - [ ] Laptop [Lenovo ThinkPad E14 Gen 3 (AMD 5700U, 8GB RAM, 256GB SSD)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-3-(14”-amd)/22tpe14e4a3)
   - [ ] [32GB Upgrade](https://www.amazon.com/dp/B07ZLC7VNH)
+- [x] VR Headset [Oculus Quest 2](https://www.oculus.com/quest-2/) 
 - [ ] Power Bank [Anker PowerCore](https://www.amazon.com/Anker-Charger-PowerCore-Portable-Delivery/dp/B07XRJZXKY)
 - [ ] Notebook [Leuchtturm1917 Bullet Journal](https://www.jetpens.com/Leuchtturm1917-Bullet-Journal-2nd-Edition-Medium-A5-Blush-Dotted/pd/31393)
 - [ ] Pen [Pentel Dr. Grip](https://www.jetpens.com/Pilot-Dr.-Grip-G-Spec-Frost-Color-Ballpoint-Pen-0.7-mm-Frost-Pink-Body-Black-Ink/pd/8918)
