@@ -8,3 +8,5 @@
 - Pen [Pentel Dr. Grip](https://www.jetpens.com/Pilot-Dr.-Grip-G-Spec-Frost-Color-Ballpoint-Pen-0.7-mm-Frost-Pink-Body-Black-Ink/pd/8918)
 - Pencils [Blackwing 602](https://www.jetpens.com/Blackwing-602-Pencil-Pack-of-12/pd/8117)
 - Pencil Sharpener [Blackwing Single-Step LP](https://www.jetpens.com/Blackwing-One-Step-Long-Point-Pencil-Sharpener-Black/pd/29156)
+- Earbuds [KZ ZSN Pro X](https://www.amazon.com/Earphone-Earbuds-Headphones-Compatibility-Computer/dp/B08BC4RFS7)
+  - [Bluetooth Module](https://www.amazon.com/Bluetooth-Waterproof-Reduction-Upgrade-ZSNProX/dp/B09292MSTF) -- the ability to use both wired and wireless capabilities is important to me, so being able to switch is a useful feature.
