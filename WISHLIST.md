@@ -7,7 +7,7 @@
 
 ## Bag
 - [ ] Backpack [Doughnut Macaroon Standard (Sky)](https://www.jetpens.com/Doughnut-Macaroon-Standard-Backpack-Sky-Sunset/pd/32697)
-- [ ] Water Bottle [Brita Stainless Steel (Glacier)](https://www.amazon.com/Brita-Premium-Filtering-Bottle-Filter/dp/B07QVTQ4ZS)
+- [x] Water Bottle [Brita Stainless Steel (Glacier)](https://www.amazon.com/Brita-Premium-Filtering-Bottle-Filter/dp/B07QVTQ4ZS)
 - [ ] Laptop [Lenovo ThinkPad E14 Gen 3 (AMD 5700U, 8GB RAM, 256GB SSD)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpade/thinkpad-e14-gen-3-(14”-amd)/22tpe14e4a3)
   - [ ] [32GB Upgrade](https://www.amazon.com/dp/B07ZLC7VNH)
 - [ ] Power Bank [Anker PowerCore](https://www.amazon.com/Anker-Charger-PowerCore-Portable-Delivery/dp/B07XRJZXKY)
