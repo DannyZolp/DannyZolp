@@ -17,4 +17,4 @@
 - [ ] Pencil Sharpener [Blackwing Single-Step LP](https://www.jetpens.com/Blackwing-One-Step-Long-Point-Pencil-Sharpener-Black/pd/29156)
 - [ ] Eraser [Sakura Sumo Grip](https://www.jetpens.com/Sakura-Sumo-Grip-Retractable-Eraser/pd/20742)
 - [ ] Earbuds [KZ ZSN Pro X](https://www.amazon.com/Earphone-Earbuds-Headphones-Compatibility-Computer/dp/B08BC4RFS7)
-  - [ ] [Bluetooth Module](https://www.amazon.com/Bluetooth-Waterproof-Reduction-Upgrade-ZSNProX/dp/B09292MSTF) -- the ability to use both wired and wireless capabilities is important to me, so being able to switch is a useful feature.
+  - [ ] (Maybe not necessary if purchasing Bose Frames) [Bluetooth Module](https://www.amazon.com/Bluetooth-Waterproof-Reduction-Upgrade-ZSNProX/dp/B09292MSTF) -- the ability to use both wired and wireless capabilities is important to me, so being able to switch is a useful feature.
