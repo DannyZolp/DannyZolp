@@ -1,3 +1,10 @@
+# Projects
+
+## Pencil Testing
+- [ ] [JetPens Wooden Pencil Sampler (H)](https://www.jetpens.com/JetPens-Wooden-Pencil-Sampler-H/pd/17915)
+- [ ] [Blackwing Audition Set](https://blackwing602.com/products/blackwing-audition-set-of-4-pencils)
+- [ ] [Sakura Sumo Grip Eraser B80](https://www.jetpens.com/Sakura-Sumo-Grip-Eraser-B80/pd/20740)
+
 # Setup
 
 ## Wearables/Carry
