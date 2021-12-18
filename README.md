@@ -1,4 +1,4 @@
-
+![logo.gif](logo.gif)
 
 [![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com)
 
