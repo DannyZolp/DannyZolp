@@ -1,7 +1,7 @@
 # Projects
 
 ## Pencil Testing
-- [ ] [JetPens Wooden Pencil Sampler (H)](https://www.jetpens.com/JetPens-Wooden-Pencil-Sampler-H/pd/17915)
+- [x] [JetPens Wooden Pencil Sampler (H)](https://www.jetpens.com/JetPens-Wooden-Pencil-Sampler-H/pd/17915)
 - [ ] [Blackwing Audition Set](https://blackwing602.com/products/blackwing-audition-set-of-4-pencils)
 - [ ] [Sakura Sumo Grip Eraser B80](https://www.jetpens.com/Sakura-Sumo-Grip-Eraser-B80/pd/20740)
 
@@ -22,7 +22,7 @@
 - [ ] Notebook [Leuchtturm1917 Bullet Journal](https://www.jetpens.com/Leuchtturm1917-Bullet-Journal-2nd-Edition-Medium-A5-Blush-Dotted/pd/31393)
 - [ ] Pen [Pentel Dr. Grip](https://www.jetpens.com/Pilot-Dr.-Grip-G-Spec-Frost-Color-Ballpoint-Pen-0.7-mm-Frost-Pink-Body-Black-Ink/pd/8918)
 - [ ] Pencils [Blackwing 602](https://www.jetpens.com/Blackwing-602-Pencil-Pack-of-12/pd/8117)
-- [ ] Pencil Sharpener [Blackwing Single-Step LP](https://www.jetpens.com/Blackwing-One-Step-Long-Point-Pencil-Sharpener-Black/pd/29156)
+- [x] Pencil Sharpener [Blackwing Single-Step LP](https://www.jetpens.com/Blackwing-One-Step-Long-Point-Pencil-Sharpener-Black/pd/29156)
 - [x] Eraser [Sakura Sumo Grip](https://www.jetpens.com/Sakura-Sumo-Grip-Retractable-Eraser/pd/20742)
 - [ ] Earbuds [KZ ZSN Pro X](https://www.amazon.com/Earphone-Earbuds-Headphones-Compatibility-Computer/dp/B08BC4RFS7)
 
