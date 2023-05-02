@@ -5,5 +5,3 @@
 🌛I am currently working on "nothing"
 
 🌜You can visit my ~~awful~~ perfect website at [dannyzolp.com](https://dannyzolp.com/)
-
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dannyzolp&theme=dark&show_icons=true)](https://wakatime.com/@dannyzolp)
